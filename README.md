@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+---
+I am Yuqing, a year 2 student currently studying at Singapore Management University majoring in Information Systems.
 <!--
 **bobishgr8/bobishgr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
